@@ -21,3 +21,5 @@ plugins:
         - dist/twodsix.zip
 preset: angular
 branches: ['+([0-9])?(.{+([0-9]),x}).x', 'master', {name: 'foundry-0.81', prerelease: true}]
+
+# Update: 2025-10-17
